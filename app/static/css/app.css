@@ -16,7 +16,7 @@ body {
     text-align: center;
     text-shadow: 1px 1px 4px #000000;
     color: white;
-    background: radial-gradient(circle, #76b581, #569960); 
+    background: radial-gradient(circle, #3bf75adb, #11c72c); 
 }
 img{
     filter: drop-shadow(0px 0px 1px black);
